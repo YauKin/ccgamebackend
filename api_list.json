@@ -1,0 +1,6 @@
+[
+    {
+        "name": "Login",
+        "api": "/api/user/login?phone=12916571888&pwd=687608"
+    }
+]
